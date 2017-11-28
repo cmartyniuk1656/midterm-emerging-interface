@@ -20,40 +20,40 @@ function addIconHoverEvents() {
     var oop = document.getElementById("oop-dev-icon");
 
     web.addEventListener("mouseover", function(){
-       web.setAttribute("src", "/assets/images/icon-web-dev-1.png");
+       web.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-web-dev-1.png");
     });
     web.addEventListener("mouseout", function(){
-        web.setAttribute("src", "/assets/images/icon-web-dev-2.png");
+        web.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-web-dev-2.png");
     });
     software.addEventListener("mouseover", function(){
-       software.setAttribute("src", "/assets/images/icon-software-dev-1.png");
+       software.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-software-dev-1.png");
     });
     software.addEventListener("mouseout", function(){
-        software.setAttribute("src", "/assets/images/icon-software-dev-2.png");
+        software.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-software-dev-2.png");
     });
     mobile.addEventListener("mouseover", function(){
-       mobile.setAttribute("src", "/assets/images/mobile-web-dev-1.png");
+       mobile.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/mobile-web-dev-1.png");
     });
     mobile.addEventListener("mouseout", function(){
-        mobile.setAttribute("src", "/assets/images/mobile-web-dev-2.png");
+        mobile.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/mobile-web-dev-2.png");
     });
     agile.addEventListener("mouseover", function(){
-       agile.setAttribute("src", "/assets/images/icon-agile-dev-1.png");
+       agile.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-agile-dev-1.png");
     });
     agile.addEventListener("mouseout", function(){
-        agile.setAttribute("src", "/assets/images/icon-agile-dev-2.png");
+        agile.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-agile-dev-2.png");
     });
     mobileFirst.addEventListener("mouseover", function(){
-       mobileFirst.setAttribute("src", "/assets/images/icon-mobile-first-1.png");
+       mobileFirst.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-mobile-first-1.png");
     });
     mobileFirst.addEventListener("mouseout", function(){
-        mobileFirst.setAttribute("src", "/assets/images/icon-mobile-first-2.png");
+        mobileFirst.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-mobile-first-2.png");
     });
     oop.addEventListener("mouseover", function(){
-       oop.setAttribute("src", "/assets/images/icon-opp-dev-1.png");
+       oop.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-opp-dev-1.png");
     });
     oop.addEventListener("mouseout", function(){
-        oop.setAttribute("src", "/assets/images/icon-opp-dev-2.png");
+        oop.setAttribute("src", "https://cmartyniuk1656.github.io/midterm-emerging-interface/assets/images/icon-opp-dev-2.png");
     });
 };
 
